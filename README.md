@@ -6,8 +6,7 @@ Este es mi portfolio creado con HTML, CSS, JavaScript con metodología BEM y arq
 **Lucio Allan**
 
 [Linkedin](www.linkedin.com/in/lucioallanss)
-
-##Ver portfolio
+[Mi Portfolio](https://lucioallanss.github.io/mi-portfolio/)
 
 ##Contratación
 Si quieres contratarme puedes escribirme a lucioallanss@gmail.com para consultas.
