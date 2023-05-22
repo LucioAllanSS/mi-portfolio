@@ -50,7 +50,7 @@ header a:hover{
     linear-gradient(0deg,
                      rgba(0,0,0,0.5), 
                      rgba(0,0,0,0.5)),
-    url(/media/76YM.gif);
+    url("media/76YM.gif");
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -157,7 +157,7 @@ footer .contacto{
         linear-gradient(0deg,
                          rgba(0,0,0,0.5), 
                          rgba(0,0,0,0.5)),
-        url(/media/76YM.gif);
+        url("/media/76YM.gif");
         background-repeat: no-repeat;
         background-size: cover;
         color: white;
@@ -206,7 +206,7 @@ footer .contacto{
         linear-gradient(0deg,
                          rgba(0,0,0,0.5), 
                          rgba(0,0,0,0.5)),
-        url(/media/APLogo-20-20.png);
+        url("/media/APLogo-20-20.png");
         background-position: center center;
         background-size: cover;
     }
