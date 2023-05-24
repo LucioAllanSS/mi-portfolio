@@ -14,11 +14,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 document.getElementById("l").addEventListener("click", function() {
-    window.location.href = "https://www.linkedin.com/in/lucioallanss/"; // Reemplaza esta URL por la que deseas utilizar
+    window.open("https://www.linkedin.com/in/lucioallanss/","_blank"); // Reemplaza esta URL por la que deseas utilizar
   });
 
 document.getElementById("g").addEventListener("click", function() {
-    window.location.href = "https://github.com/LucioAllanSS"; // Reemplaza esta URL por la que deseas utilizar
+    window.open("https://github.com/LucioAllanSS","_blank"); // Reemplaza esta URL por la que deseas utilizar
   });
 
 });
