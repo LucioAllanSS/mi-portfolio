@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
         
     if (userAgent.includes('Android') || userAgent.includes('iPhone') || userAgent.includes('iPad') || userAgent.includes('iPod')) {
-        linkStyles.href = "PC.css";
+        linkStyles.href = "Mobile.css";
     }
 
 
