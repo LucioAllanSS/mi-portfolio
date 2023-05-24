@@ -1,6 +1,6 @@
 ## Descripción:
 
-Este es mi portfolio creado con HTML, CSS, JavaScript con metodología BEM y arquitectura ITCSS.
+Este es mi portfolio creado con HTML, CSS, JavaScript. responsivnes con modo oscuro automatico y estilo unico para Mobil o Pc
 
 ##Autor
 **Lucio Allan**
