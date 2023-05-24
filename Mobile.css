@@ -1,3 +1,7 @@
+:root{
+    color-scheme: light dark;
+}
+
 @media (prefers-color-scheme: dark){
     :root{
         --headrebg: #1a1a1a;
@@ -163,6 +167,7 @@ h1{
 }
 
 #Projects .module{
+    color: #000;
     background-color: white;
     border: 1px solid black;
     border-radius: 15px;
